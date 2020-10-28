@@ -1,2 +1,2 @@
-# database
+# Database
 Custom postgres databse
