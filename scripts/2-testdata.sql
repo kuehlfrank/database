@@ -11,7 +11,8 @@ INSERT INTO public.unit (unit_id, label) VALUES ('67d10252-cafd-46b3-a4d0-a2f1f9
 ('148ce4b4-7c96-40b6-8019-48ba53d636dd', 'kleiner'),
 ('3743ea13-fb92-407c-a3f0-3498c8538c6a', 'Köpfe'),
 ('6112ca8f-3587-446d-a782-241e407e3693', 'Glas'),
-('546077df-5cd1-451a-be9e-d8f3d9f72035', 'Handvoll');
+('546077df-5cd1-451a-be9e-d8f3d9f72035', 'Handvoll'),
+('4991a93b-dda0-46e8-b659-7ff6ecdcc851', 'Stück');
 
 INSERT INTO public.recipe (recipe_id, name) VALUES ('f1156695-2d82-45c9-a138-a4cfb5d12ab3', 'Maissalat'),
 ('3672ba6a-6af3-45cf-a90a-f0eb4cd74fb0', 'Ofenkürbis mit Kartoffeln und Schmand Dip'),
