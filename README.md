@@ -4,6 +4,7 @@ Custom postgres databse
 
 
 ## Data pipeline
+![datapipeline](./docs/datapipeline.svg)
 ### Scrape data
 We provide data scrapers for [EDEKA Rezepte](https://www.edeka.de/rezepte/suche.jsp) and [REWE Rezepte](https://www.rewe.de/rezepte/). Both of these will output data in the same format.
 ```sh
