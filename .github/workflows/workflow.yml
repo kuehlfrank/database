@@ -14,7 +14,11 @@ jobs:
       - name: Build the latest Docker image
         run: docker build . --file Dockerfile --tag ghcr.io/kuehlfrank/database:latest
       - name: Test run image
-        run: docker run -e POSTGRES_PASSWORD=THISISINTERNALONLY -it ghcr.io/kuehlfrank/database:latest
+        run: docker run -e POSTGRES_PASSWORD=THISISINTERNALONLY --name database -d ghcr.io/kuehlfrank/database:latest
+      - name: Wait for 15s
+        run: sleep 15s
+      - name: Test container still running
+        run: if [ "$( docker container inspect -f '{{.State.Status}}' database )" != "running" ]; then exit 1; fi
       - name: Login to ghcr
         run: echo ${{ secrets.CR_PAT }} | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin
       - name: Push image to ghcr
