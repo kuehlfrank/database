@@ -22,23 +22,27 @@ cargo run
 This will produce `./apicrawler/recipes/recipes.json.new`
 
 ### Generate SQL INSERT Statements from data
-You have two possiblities here. Either insert the data directly into your database or use more scripts to generate SQL INSERT statements.
+#### Generate optimized SQL Statements from data (recommended)
+Run this to generate SQL Insert Statements from `./apicrawler/recipes/recipes.json.new`.
+```sh
+python3 testdata_sql_generator.py
+```
+
+### Package everything into Docker
+```
+docker build --tag ghcr.io/kuehlfrank/database:latest .
+```
+
+
+## Misc
 #### Insert the new data into a Database
 ```sh
 cd ./apicrawler
 python3 insertRecipesIntoDb.py
 ```
 
-#### Generate SQL Statements from data (recommended)
-TODO: SQL Insert Statements from `./apicrawler/recipes/recipes.json.new`
-
 #### Convert to optimized SQL
 This will convert the single SQL Statements from `original-testdata.sql` to optimized SQL INSERTS and save them to `2-testdata.sql`.
 ```sh
 python3 testdata_converter.py
-```
-
-### Package everything into Docker
-```
-docker build --tag ghcr.io/kuehlfrank/database:latest .
 ```
