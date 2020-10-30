@@ -19,7 +19,7 @@ pub struct InputRecipe {
 
 #[derive(Serialize)]
 pub struct Ingredient {
-    amount: Option<usize>,
+    amount: Option<f64>,
     unit: Option<String>,
     name: String,
 }
@@ -64,9 +64,9 @@ pub fn generate_ingredient(
     if re1.is_match(ingredient) {
         let caps = re1.captures(ingredient).unwrap();
 
-        let amount: usize = caps
+        let amount: f64 = caps
             .name("amount")
-            .map_or(0, |c| c.as_str().parse().unwrap_or(0)); // TODO default 0?
+            .map_or(0f64, |c| c.as_str().parse().unwrap_or(0f64)); // TODO default 0?
         let unit: String = String::from(caps.name("unit").map_or("", |c| c.as_str()));
         let name: String = String::from(caps.name("ingredient").map_or("", |c| c.as_str()));
 
@@ -78,9 +78,9 @@ pub fn generate_ingredient(
     } else if re2.is_match(ingredient) {
         let caps = re2.captures(ingredient).unwrap();
 
-        let amount: usize = caps
+        let amount: f64 = caps
             .name("amount")
-            .map_or(0, |c| c.as_str().parse().unwrap_or(0)); // TODO default 0?
+            .map_or(0f64, |c| c.as_str().parse().unwrap_or(0f64)); // TODO default 0?
         let name: String = String::from(caps.name("ingredient").map_or("", |c| c.as_str()));
 
         Some(Ingredient {
