@@ -125,8 +125,8 @@ def generate_sql_for_recipes(recipes):
     # populate dict for each table
     insertUnitIDs(sql["public.unit"], recipes)
     insertIngredientIDs(sql["public.ingredient"], recipes)
-    saveToFile('recipies.json', json.dumps(recipes, indent=2))
-    saveToFile('recipe_ingredient.json', json.dumps(recipes, indent=2))
+    insertRecipes(sql["public.recipe"], recipes)
+    insertRecipeIngredients(sql["public.recipe_ingredient"], recipes)
 
     # merge everything together to one text statement
     sql_text = "BEGIN TRANSACTION;\n"
