@@ -1,29 +1,29 @@
-1.0 TL Thymian
-1.0  Lorbeerblatt
-2.0 EL Schnittlauchröllchen
-1.0 Zweig Bohnenkraut
-100.0 g Käferbohne (Feuerbohne)
-3.0 EL Apfelessig
-4.0 EL Parmesan
-100.0 g Zwiebel
-1.0 Dose Tomate, in Stücken
-150.0 g Zwiebel
-0.0  Salz
-6.0 EL Rinderfond
-1.0 EL Basilikum
-60.0 g Tomatenmark
-150.0 g Salami
-2.0 EL Olivenöl, kalt gepresst
-3.0  Knoblauchzehe
-1.0  Ei
-0.0  Pfeffer
-125.0 g Magerquark
-600.0 g Rindfleisch, gekocht, mager
-250.0 g Weizenmehl
-1.0 TL Majoran
-3.0 EL Pflanzenöl
-1.0 EL Oregano
-400.0 g Lauch
-1.0 Prise Zucker
-1.0 EL Kürbiskernöl
-100.0 g Radieschen
+0  Pfeffer
+1 Dose Tomate, in Stücken
+1 TL Majoran
+1  Ei
+125 g Magerquark
+250 g Weizenmehl
+1 Zweig Bohnenkraut
+1  Lorbeerblatt
+400 g Lauch
+100 g Käferbohne (Feuerbohne)
+0  Salz
+100 g Radieschen
+1 EL Kürbiskernöl
+6 EL Rinderfond
+150 g Salami
+3  Knoblauchzehe
+1 TL Thymian
+600 g Rindfleisch, gekocht, mager
+3 EL Apfelessig
+1 Prise Zucker
+4 EL Parmesan
+1 EL Oregano
+2 EL Schnittlauchröllchen
+2 EL Olivenöl, kalt gepresst
+3 EL Pflanzenöl
+1 EL Basilikum
+150 g Zwiebel
+100 g Zwiebel
+60 g Tomatenmark

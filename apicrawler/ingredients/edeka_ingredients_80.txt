@@ -1,504 +1,501 @@
-0.5  Spitzpaprika, grün
-50.0 g Puderzucker
-1.0 Prise Chili
-2.0 Stängel Minze
-130.0 g Quinoa, rot
-0.0 etwas Pfeffer
-3.0 EL Creme fraiche
-1.0 EL Senf
-1.0 EL Honig, flüssig
-200.0 g Saure Sahne
-1.0 walnussgroßes Stück Ingwer
-4.0  Bananenblatt
-50.0 ml Olivenöl
-1.0  Limette, davon der Saft
-4.0 EL Olivenöl
-1.0 Bund Petersilie
-2.0  Hähnchenbrust
-1.0 TL Orangenlikör (z.B. Grand Marnier oder Cointreau)
-6.0 EL Fleischbrühe
-3.0 TL Zimt
-1.0  Orange, davon Saft und Abrieb
-2.0 EL Olivenöl
-1.0  Thymianzweig
-1.0  Eigelb
-75.0 g getrocknete Aprikose
-30.0 g Parmesan, gerieben
-1.0 TL Majoran
-1.0 Prise Muskatnuss
-2.0  Avocado
-100.0 g Zucchini
-100.0 ml Milch
-90.0 g Haferflocken
-1.0  Vanilleschote
-1.5 EL Olivenöl, kalt gepresst
-2.0 EL Rapsöl, kalt gepresst
-1.0 Stk. Zitrone
-500.0 g Weizenmehl
-1.0  Paprika, grün
-12.0 Scheiben Parmaschinken
-1.0 TL Paprikamark
-60.0 ml Olivenöl
-2.0  Schalotte
-60.0 g Parmesan, gerieben
-1.0 EL Agavendicksaft
-1.0 Bund Spargel, weiß
-1.0 Handvoll Crushed Ice
-None None Puderzucker
-0.0  Salz, Pfeffer
-2.0 TL Paprika, edelsüß
-1.0 Päckchen Puddingpulver Vanille
-12.0  Cracker
-1.0 TL Balsamico-Essig
-2.0  Knoblauchzehe
-1.0  Knoblauch
-1.0  Limette
-0.5  Ingwer
-150.0 ml Tomatenketchup
-1.0 EL Oregano
-12.0  Taco Chip
-150.0 g Feldsalat
-100.0 g Erdnusscreme
-250.0 g Brie (franz. Weichkäse)
-1.0 Stk. Ingwer
-2.0  Limette
-2.0 EL Apfelessig
-1.0 TL Butter
-2.0 Bund Spargel, grün
-1.0 EL Zitronensaft
-1.0 Prise Vanille 
-1.0 EL Cranberry
-100.0 g Kokosnuss-Fruchtfleisch
-1.0  Paprika
-2.0 große Zwiebel
-3.0 EL Zucker
-150.0 g Mandel, gemahlen
-400.0 g Kichererbse (aus der Dose)
-0.0  Puderzucker
-0.0  Balsamico-Creme
-1.0 Handvoll Rucola
-1.0  Salatgurke
-200.0 g Schokolade, weiß
-0.0  Planzenöl, zum Ausbacken
-3.0  Kalbsrückensteak
-0.0  Thüringer Bratwurst
-1.0 EL Honig
-1.0 EL Kürbiskerne
-1.0 Beet Rucola-Keimling
-0.5 TL Olivenöl, kalt gepresst
-1.0  Schalotte
-1.0 TL Traubenkernmehl
-2.0  Ei
-1.0 kg Lammschulter
-250.0 g Cocktailtomate
-3.0 EL Sojasoße
-4.0 Stängel Schnittlauch
-2.0 EL Creme fraiche
-2.0 kleine Cantaloupe-Melone
-80.0 ml Weißwein, trocken
-1.0  Knoblauchzehe
-1.0  Maracuja
-50.0 g Sauerrahm
-1.0 Bund Kerbel
-1.0  Zucchini
-1.0 Prise Zimt
-0.5  Granatapfel
-100.0 ml Prosecco
-2.0 TL Zimt
-2.0 EL Butter, zerlassen
-125.0 g EDEKA Parboiled Langkorn- & Wildreis
-3.0 EL Rapsöl
-0.5  Zwiebel, rot
-100.0 g Schnittkäse
-50.0 g Pistazie, gehackt
-0.5 TL Salz
-200.0 g Karamellbonbon
-1.0 Stück Zimtstange
-4.0  Rumpsteak
-1.0 TL Paprikapulver, edelsüß
-100.0 g Shiitake-Pilz
-2.0 EL Weinessig
-1.0 EL Essig
-200.0 g Akazienhonig
-1.0 kg Spargel, grün
-2.0 TL Pfeffer, rosa
-3.0  Ei
-1.0 Stängel Thymian
-1.5 TL Backpulver
-2.0 EL Essig
-2.0 EL Rapsöl
-500.0 g Risoleekartoffeln
-60.0 g Kürbiskern
-60.0 g Weizenmehl (Type 405)
-400.0 g Gnocchi
-0.5 Bund Schnittlauch
-800.0 g Hähnchenbrustfilet
-100.0 g Mangold
-50.0 g Zucker
-0.5 Bund Minze
-10.0  Cherrytomaten
-250.0 ml Fleischbrühe
-0.0  Salz
-0.5 TL Vanillezucker
-250.0 g Speck, durchwachsen, geräuchert
-1.0 EL Wasabipaste
-250.0 g Blumenkohl
-0.5 TL Chiliflocke, getrocknet
-80.0 ml Sahne
-1.0 TL Vanillezucker
-1.0 EL Kokosflocken
-400.0 ml Tomatensaft
-100.0 g Ananas
-1.0  Fenchelknolle
-4.0 EL Limettensaft
-1.0 EL Schnittlauchröllchen
-100.0 g Radieschen
-100.0 g Erdbeere
-60.0 g Mandel
-1.0 Handvoll Basilikum
-2.0 EL Milch
-1.0  Nelke
-150.0 g Dattel
-1.0  Kartoffel
-40.0 g Roquefort (Blauschimmelkäse)
-30.0 g Rohrzucker
-1.0 kleiner Apfel
-0.5 TL Zucker
-0.5  Zitrone, davon der Abrieb
-0.5 Bund Frühlingszwiebel
-250.0 g Haferflocken
-80.0 g Zwiebel
-0.5 Bund Koriander, frisch
-1.0 TL Currypaste, grün
-2.0 EL Paprikapulver, edelsüß
-0.5 EL Minzblatt
-3.0  Knoblauchzehe
-0.5  Hokkaido-Kürbis
-250.0 g Quark
-100.0 g Birne
-1.0 Packung Hummus
-1.0  Frühlingszwiebel
-150.0 g Erbse, tiefgekühlt
-0.25 Bund Petersilie
-150.0 g Lauch
-300.0 g Parmesan, frisch gehobelt
-1.0 EL Sauerrahm
-800.0 g Tomate
-2.0  Eiweiß
-60.0 g Spinat
-1.0 TL Kurkuma
-0.5  Orangensaft, frisch, gepresst
-125.0 g Butter
-1.0 Packung Champignon
-1.0 EL Orangenblütenwasser
-0.0  frische Petersilie
-1.0  Fenchel
-100.0 ml Sahne
-120.0 g Mandel
-2.0 TL Sojasauce
-1.0 Bund Schnittlauch
-100.0 g Gewürzgurke
-50.0 g Thymian
-2.0  Frühlingszwiebel
-2.0 Kugeln Büffelmozzarella
-3.0 EL Naturjoghurt
-0.0  Pfeffer
-100.0 g Butter
-80.0 g Zwiebel, rot
-4.0 EL Butter
-20.0 g Bärlauchblatt
-1.0 Stange Staudensellerie
-0.0 etwas Salz
-12.0  Wiener Würstchen
-1.5 TL Kümmelsamen
-600.0 g Kartoffel, festkochend 
-1.0 TL Pinienkern
-0.0  Zuckerperle
-125.0 g Weizenmehl
-0.0  Lebensmittelfarbe, gelb
-150.0 ml Glukosesirup
-2.0 EL Pflanzenöl
-2.0 EL Weißweinessig
-150.0 g Haferflocken
-1.0 EL Petersilie, fein geschnitten
-1.0  Chilischote, rot
-2.0  rote Zwiebel
-100.0 g Parmesan
-0.0  Rapsöl
-80.0 g Butter
-0.5  Papaya
-1.5 TL Koriandersamen
-50.0 g Ziegenkäse, fest
-1.0 Msp. Zimt
-500.0 g Roggenmehl
-3.0 EL Smarties
-1.0 Packung Joghurt-Salatdressing
-25.0 g Erdnuss
-0.0  Ein Schokoladen-Fondue-Set
-2.0 TL Rapsöl
-1.0 Stück Parmesan
-100.0 g Babybanane
-1.0 EL Currypaste, rot
-3.0 Stängel Grünkohl
-200.0 g Möhre
-75.0 g Feige, getrocknet
-1.0 TL Zimt
-1.0 TL Petersilie
-100.0 g Butter, weich
-8.0 Blatt Gelatine
-0.0 etwas Puderzucker zum Besieben
-100.0 g Apfel
-100.0 g Honig
-300.0 ml Gemüsebrühe
-200.0 g Mehl
-200.0 ml Sahne
-1.0  Banane
-1.0 EL Pistazie, gehackt
-100.0 g Blaubeeren
-1.0 TL Traubenkernöl
-300.0 g Basmati-Reis
-40.0 g Sultanine
-100.0 g Ahornsirup
-250.0 g Quark, fettarm
-1.0 EL Butter
-250.0 g Halloumi (Grillkäse)
-1.0 TL Apfeldicksaft
-80.0 g Vollkornmehl
-250.0 g Butter, weich
-2.0 TL Honig, flüssig
-4.0  Thüringer Bratwurst
-1.0 TL Kokosflocken
-225.0 g Paprika, rot
-100.0 g Marzipanrohmasse
-150.0 g Zucker, braun
-0.0  Muskat
-2.0  Karotte
-3.0 EL Haselnuss-Krokant
-125.0 g Polentagrieß
-2.0 Scheiben Speck, durchwachsen, geräuchert
-50.0 g Quinoa, gepoppt
-1.0 Handvoll Himbeere
-200.0 g Crème fraîche
-0.5 TL Chili
-250.0 g Sauerteig
-0.5  Vanilleschote
-1.0 Päckchen Vanillezucker
-1.0 EL Thymian
-1.5 TL Paprika, edelsüß
-2.0 TL Salz
-150.0 g Butter
-3.0 EL Milch
-250.0 g Penne Rigate
-1.0 EL Olivenöl
-150.0 ml Kondensmilch, gezuckert
-1.0 Handvoll Kräuter 
-1.5 TL Curry
-200.0 g Brickteig
-1.5 EL Sesam
-8.0 dünne Putenschnitzel
-200.0 ml Milch
-2.0 EL Zitronensaft
-0.5 Bund Radieschen
-0.0 einige Minzblatt
-50.0 g Dill
-3.0 EL Kokosöl
-200.0 g Zucker
-0.5  Blumenkohl
-1.0 Bund Minze
-5.0 EL Karamellsauce
-1.0 Handvoll Erdbeere
-1.0  Zitrone
-2.0 kleine Zucchini
-25.0 g Mandel, gehackt
-0.0  Petersilie
-0.5  Paprika, rot
-5.0  Radieschen
-50.0 g Zwiebel
-1.0 Stück Blauschimmelkäse
-0.0  Pfefferbeere, rot
-0.5 TL Garam Masala (Gewürzmischung)
-0.0  Lebensmittelfarbe, rot
-1.0  rote Zwiebel
-250.0 g Spargel, grün
-100.0 g Puderzucker
-1.5 TL Apfelessig
-100.0 g Haselnuss, ganz
-0.25  Ananasfruchtfleisch, frisch
-0.0  Olivenöl
-0.5  Honigmelone
-500.0 g Wachsbohne
-3.0  Banane
-75.0 g Sultanine
-250.0 g Quinoa, rot
-2.0  Mandarine
-3.0 EL Mini-Marshmallow
-100.0 g Tofu, geräuchert
-100.0 g Sprossen-Mix
-150.0 g Zucker
-50.0 g Honig
-1.5 EL Haselnuss, gehackt
-2.0 Stängel Minzblatt
-200.0 g Mascarpone
-5.0 g Curry
-600.0 ml Gemüsefond
-1.0 EL Basilikum-Blatt
-8.0 kleine Tomate
-600.0 g Lammrückenfilet
-400.0 g Rotkohl
-60.0 g Zwiebel
-2.0  Eigelb
-400.0 g Kalbsbraten
-1.0 EL Zucker, braun
-250.0 g Rhabarber
-0.5 TL Ingwerpulver
-400.0 g Marone (Esskastanie)
-50.0 g Babyspinat
-1.0 Viertel Rotkohl
-500.0 ml Gemüsebrühe
-3.0 EL Olivenöl
-0.5  Chilischote
-100.0 g Salatmayonnaise
-12.0  Löffelbiskuit
-100.0 ml Rapsöl
-3.0 EL Limettensaft
-100.0 g Weizenmehl
-5.0 EL Olivenöl
-1.0 TL Zitronenthymianmelisse
-3.0 EL Schokoladenraspeln, Vollmilch
-1.0 Stück Zitrone
-4.0  Lebensmittelfarbe
-5.0 EL Kokosöl
-1.0 Handvoll Walnuss
-1.0 große Birne
-1.0 EL Birnensaft
-6.0 EL Orangensaft
-230.0 g Mehl
-100.0 ml Rotwein, trocken
-0.0  Mandel
-60.0 g Hartkäse, gerieben
-200.0 ml Kalbsfond
-6.0 EL Basilikumblättchen
-1.0  Plattpfirsich (Bergpfirsich, Paraguayo)
-0.0  Schokolade, weiß, gehobelt
-0.0  Goldstaub
-100.0 g Honig, flüssig
-6.0  Tomate, getrocknet
-200.0 g Vollmilch-Couverture
-200.0 g Creme fraiche
-1.0 Rolle Blätterteig
-4.0 kleine Birne
-500.0 g gehackte Tomate (ca. 400 ml)
-4.0 EL Pflanzenöl
-1.0 EL Petersilie
-1.0  Zitrone, unbehandelt
-2.0  Zwiebel, rot
-4.0  Orange, unbehandelt
-20.0 g Butter
-200.0 ml Gemüsebrühe
-0.0  Schwarzer Pfeffer aus der Mühle
-0.0  Pfeffer, grob, bunt
-600.0 g Spaghetti
-2.0 Scheiben Weißbrot
-500.0 g Rotbarbe
-0.0 etwas Butter für die Form
-275.0 g Puderzucker
-1.0  Zwiebel, rot
-3.0 EL Zuckerperle
-25.0 g Parmesan
-2.0 TL Lebkuchengewürz
-1.0 Handvoll frische Kräuter ( z.B. Thymian, Oregano oder Petersilie)
-50.0 g Petersilie
-0.0  Lebensmittelfarbe, orange
-0.0 etwas Paniermehl
-20.0  Basilikum-Blatt
-1.0 Bund Dill
-1.0  rote Paprikaschote
-1.0  Aubergine
-200.0 g Cherry Rispentomate
-250.0 g Spargel, weiß
-1.0  Chilischote, getrocknet
-1.0 EL Kakaopulver
-1.0 Rispen Cocktailtomate
-1.0 EL Weinessig, weiß
-2.0  Zwiebel
-4.0  Ei
-0.5 EL Koriandergrün
-100.0 g Blaubeere, Johannisbeere, Himbeere
-2.0 EL Sonnenblumenöl
-1.0  Ei
-0.5 Tasse Gemüsebrühe
-1.0 Päckchen Backpulver
-0.0  Meersalz
-4.0 EL Weizenmehl
-100.0 g Ziegenfrischkäse
-100.0 g Joghurt
-75.0 g Butter
-200.0 g Weizenmehl
-2.0 Stiele Grünkohl
-120.0 g Paprika, rot
-1.0 Handvoll Kräuter, z.B. Dill, Petersilie, Kerbel
-1.0 EL Olivenöl, kalt gepresst
-1.0 EL frisch gepresster Zitronensaft
-None None Minze
-0.5 TL Kreuzkümmel (Cumin), gemahlen
-1.0 kleine Hähnchenbrust
-4.0  Ei, Größe M
-1.0  Mango
-100.0 g Agavendicksaft
-1.0 Spritzer frisch gepresster Zitronensaft
-0.5  Maiskolben, frisch
-1.0 Liter Tomatensauce
-1.0 EL Schnittlauch, fein geschnitten
-1.0 Zweig Rosmarin
-1.0 Prise Ingwer
-600.0 g Kartoffel, mehlig kochend
-125.0 g Kokosjoghurt, cremig
-50.0 g Weiße Couverture
-2.0 EL Walnussessig
-0.5 TL Natron
-100.0 g Sesam
-200.0 g Erbse, tiefgekühlt
-4.0 EL Oreganoblatt
-1.0 Bund Basilikum
-0.5  Ananasfruchtfleisch, frisch
-2.0  Lorbeerblatt
-0.5 TL Weinsteinbackpulver
-50.0 g Walnuss
-1.0 Prise Salz
-1.0 TL Bohnenkraut
-0.25 TL Paprikapulver, scharf
-3.0 Zweige Rosmarin
-200.0 g Mozzarella, gerieben
-800.0 g Linse, braun, groß (Tellerlinse)
-2.0 TL Backpulver
-2.0 Stängel Petersilie
-4.0 EL Balsamico Bianco
-100.0 g rote Paprikaschote
-1.0  Paprika, rot
-0.5 Bund Koriander
-2.0  Sternanis
-100.0 ml Kokosmilch
-200.0 g Linse, rot
-0.0  Kapern
-1.0 Dose Kokosmilch
-4.0 kleine Feige
-4.0  Pfefferkörner, schwarz
-3.0 TL Feigen-Senf-Sauce
-1.0 TL Tomatenmark
-500.0 g Kartoffel, festkochend 
-15.0 g Weizenmehl
-100.0 g Creme fraiche
-250.0 g Hähnchenbrustfilet
-300.0 g Weizenmehl (Type 405)
-30.0 g Schnittkäse
-1.5 TL Fenchelsamen
+3 TL Feigen-Senf-Sauce
+2 TL Koriandersamen
+1 TL Orangenlikör (z.B. Grand Marnier oder Cointreau)
+2 EL Dijon Senf
+500 g Weizenmehl
+500 g gehackte Tomate (ca. 400 ml)
+250 ml Fleischbrühe
+0 etwas Pfeffer
+1 Stange Staudensellerie
+1 Packung Joghurt-Salatdressing
+4 kleine Birne
+2  Hähnchenbrust
+1 EL Basilikum-Blatt
+4 EL Balsamico Bianco
+1 EL Kürbiskerne
+150 g Zucker, braun
 None None Sonnenblumenkern
-2.0  Kaki
-120.0 g Butter
-3.0  rote Zwiebel
-100.0 g Kiwi
-100.0 g Crème fraîche
-80.0 g Glasnudel
-500.0 g Rhabarber
-2.0 EL Dijon Senf
-0.5  Mango
+2 TL Rapsöl
+1 Prise Chili
+4  Bananenblatt
+100 g rote Paprikaschote
+250 g Halloumi (Grillkäse)
+2 TL Kümmelsamen
+60 g Parmesan, gerieben
+0 Bund Schnittlauch
+125 g EDEKA Parboiled Langkorn- & Wildreis
+0 Bund Radieschen
+100 g Gewürzgurke
+800 g Linse, braun, groß (Tellerlinse)
+250 g Rhabarber
+100 ml Prosecco
+100 g Birne
+50 g Honig
+0 etwas Puderzucker zum Besieben
+1  Zwiebel, rot
+0  Lebensmittelfarbe, orange
+1 EL Cranberry
+1 TL Pinienkern
+3 EL Milch
+1 TL Kokosflocken
+50 g Quinoa, gepoppt
+0 Tasse Gemüsebrühe
+2  rote Zwiebel
+12  Löffelbiskuit
+3 EL Zucker
+1 Prise Ingwer
+80 g Butter
+0  Lebensmittelfarbe, gelb
+0 TL Salz
+1 TL Traubenkernmehl
+100 g Erdnusscreme
+6  Tomate, getrocknet
+1 TL Kurkuma
+50 g Petersilie
+1  Chilischote, rot
+0  Pfeffer, grob, bunt
+150 g Haferflocken
+0 TL Chili
+100 g Kokosnuss-Fruchtfleisch
+3 EL Smarties
+75 g Sultanine
+500 ml Gemüsebrühe
+50 g Babyspinat
+2  Ei
+100 g Sprossen-Mix
+200 g Schokolade, weiß
+400 g Kichererbse (aus der Dose)
+10  Cherrytomaten
+300 g Parmesan, frisch gehobelt
+2 TL Backpulver
+1 Päckchen Puddingpulver Vanille
+200 g Karamellbonbon
+0 etwas Paniermehl
+5 EL Olivenöl
+1 EL Weinessig, weiß
+1 Handvoll Kräuter 
+500 g Roggenmehl
+1 EL Butter
+2 Kugeln Büffelmozzarella
+30 g Parmesan, gerieben
+4 EL Oreganoblatt
+200 g Mascarpone
+1 EL frisch gepresster Zitronensaft
+1 TL Paprikamark
+200 ml Milch
+1 Handvoll Crushed Ice
+1 kg Lammschulter
+1  Paprika, rot
+1 EL Schnittlauch, fein geschnitten
+2 EL Walnussessig
+2 Scheiben Weißbrot
+60 g Hartkäse, gerieben
+3  Ei
+0 TL Paprikapulver, scharf
+3 EL Schokoladenraspeln, Vollmilch
+125 g Weizenmehl
+0  Meersalz
+100 g Shiitake-Pilz
+0  Mango
+1  Thymianzweig
+1  Ei
+1 Päckchen Backpulver
+0  Ingwer
+200 g Akazienhonig
+1  Paprika, grün
+250 g Quark, fettarm
+250 g Penne Rigate
+4 EL Weizenmehl
+400 g Gnocchi
+100 g Honig, flüssig
+200 g Brickteig
+0  Thüringer Bratwurst
+1 Zweig Rosmarin
+0 Bund Koriander
+600 g Lammrückenfilet
+2 EL Rapsöl
+12  Taco Chip
+2 Bund Spargel, grün
+1 Liter Tomatensauce
+1 Prise Zimt
+0  frische Petersilie
+8 dünne Putenschnitzel
+1 EL Birnensaft
+100 g Salatmayonnaise
+50 g Zwiebel
+1 TL Tomatenmark
+200 g Mozzarella, gerieben
+2 TL Zimt
+4 EL Pflanzenöl
+2 EL Sonnenblumenöl
+300 g Basmati-Reis
+1 TL Zimt
+1 EL Petersilie
+4 Stängel Schnittlauch
+200 g Möhre
+5 g Curry
+3 EL Mini-Marshmallow
+150 ml Glukosesirup
+1  Salatgurke
+0 etwas Butter für die Form
+200 g Crème fraîche
+1 Stück Zimtstange
+2  Knoblauchzehe
+200 ml Gemüsebrühe
+1 Handvoll Basilikum
+80 g Vollkornmehl
+1  Plattpfirsich (Bergpfirsich, Paraguayo)
+130 g Quinoa, rot
+0  Hokkaido-Kürbis
+60 g Spinat
+60 g Weizenmehl (Type 405)
+25 g Parmesan
+3 EL Haselnuss-Krokant
+2 TL Paprika, edelsüß
+0  Maiskolben, frisch
+1 Stück Parmesan
+2 TL Fenchelsamen
+1 TL Petersilie
+0  Kapern
+3 EL Zuckerperle
+100 g Mangold
+0 TL Natron
+1 EL Currypaste, rot
+1 große Birne
+2 TL Lebkuchengewürz
+100 g Tofu, geräuchert
+100 g Parmesan
+60 g Zwiebel
+2 Stängel Minze
+250 g Blumenkohl
+1  rote Paprikaschote
+3 TL Zimt
+100 ml Milch
+200 g Saure Sahne
+1 Prise Muskatnuss
+1 EL Oregano
+100 g Kiwi
+0  Planzenöl, zum Ausbacken
+2 EL Weinessig
+275 g Puderzucker
+1  Zucchini
+25 g Erdnuss
+100 g Weizenmehl
+50 g Thymian
+1  Knoblauchzehe
+15 g Weizenmehl
+600 g Spaghetti
+3  Banane
+1 TL Majoran
+0 TL Olivenöl, kalt gepresst
+1 TL Paprikapulver, edelsüß
+250 g Spargel, weiß
+50 g Ziegenkäse, fest
+1  Fenchel
+2  Zwiebel, rot
+0  Salz
+1 Stück Blauschimmelkäse
+4 kleine Feige
+3 EL Olivenöl
+1 TL Currypaste, grün
+3  Knoblauchzehe
+100 g Creme fraiche
+1 TL Traubenkernöl
+50 g Weiße Couverture
+150 g Butter
+200 g Mehl
+200 g Zucker
+2 EL Creme fraiche
+250 g Haferflocken
+1 Beet Rucola-Keimling
+50 ml Olivenöl
+400 g Marone (Esskastanie)
+80 ml Weißwein, trocken
+2  Lorbeerblatt
+30 g Rohrzucker
+8 kleine Tomate
+1  Knoblauch
+2 EL Zitronensaft
+600 g Kartoffel, mehlig kochend
+250 g Speck, durchwachsen, geräuchert
+3  rote Zwiebel
+800 g Tomate
+75 g getrocknete Aprikose
+500 g Kartoffel, festkochend 
+125 g Polentagrieß
+1  Schalotte
+0  Salz, Pfeffer
+50 g Dill
+2 EL Haselnuss, gehackt
+100 ml Sahne
+100 g Butter
+1 EL Kokosflocken
+200 g Weizenmehl
+80 g Zwiebel
+2 EL Weißweinessig
+2 EL Olivenöl, kalt gepresst
+3  Kalbsrückensteak
+1 Handvoll Kräuter, z.B. Dill, Petersilie, Kerbel
+0 EL Koriandergrün
+1 kg Spargel, grün
+2  Eigelb
+2 EL Milch
+1  Zitrone, unbehandelt
+120 g Butter
+100 g Ahornsirup
+250 g Spargel, grün
+3 Zweige Rosmarin
+40 g Sultanine
+1 EL Honig
+12  Cracker
+2 TL Honig, flüssig
+0  Balsamico-Creme
+150 g Dattel
+30 g Schnittkäse
+500 g Rhabarber
+2 Stängel Minzblatt
+1 Prise Salz
+100 g Sesam
+1 Bund Dill
+150 g Mandel, gemahlen
+1 Handvoll Walnuss
+1  Maracuja
+2 EL Paprikapulver, edelsüß
+5 EL Kokosöl
+0  Mandel
+150 ml Kondensmilch, gezuckert
+2 TL Sojasauce
+100 g Ananas
+80 g Zwiebel, rot
+1 EL Essig
+1 EL Senf
+2  Eiweiß
+3 EL Sojasoße
+500 g Wachsbohne
+0  Petersilie
+0  Pfeffer
+75 g Feige, getrocknet
+100 ml Rotwein, trocken
+0  Paprika, rot
+2  Zwiebel
+2  Schalotte
+0  Honigmelone
+2 EL Apfelessig
+200 ml Kalbsfond
+100 g Radieschen
+5 EL Karamellsauce
+1 Dose Kokosmilch
+1 EL Honig, flüssig
+1  Nelke
+100 g Zucchini
+1  Banane
+100 g Crème fraîche
+1 EL Agavendicksaft
+0  Granatapfel
+1 Bund Basilikum
+400 g Kalbsbraten
+1 TL Butter
+2 EL Pflanzenöl
+200 g Linse, rot
+0  Schwarzer Pfeffer aus der Mühle
+0 TL Vanillezucker
+2  Limette
+0 Bund Koriander, frisch
+1 Handvoll Rucola
+75 g Butter
+2  Mandarine
+0  Spitzpaprika, grün
+4 EL Butter
+1 Stück Zitrone
+230 g Mehl
+200 g Erbse, tiefgekühlt
+2 EL Rapsöl, kalt gepresst
+1  Mango
+0  Muskat
+100 g Apfel
+4  Pfefferkörner, schwarz
+50 g Pistazie, gehackt
+1 Prise Vanille 
+20 g Bärlauchblatt
+1  Fenchelknolle
+0  Goldstaub
+2 Stängel Petersilie
+0  Schokolade, weiß, gehobelt
+80 ml Sahne
+300 ml Gemüsebrühe
+200 ml Sahne
+0 TL Weinsteinbackpulver
+1 EL Schnittlauchröllchen
+1  Zitrone
+1  Paprika
+1 Stk. Zitrone
+0 Bund Frühlingszwiebel
+1 Päckchen Vanillezucker
+300 g Weizenmehl (Type 405)
+0 etwas Salz
+6 EL Fleischbrühe
+1 Bund Minze
+2 kleine Cantaloupe-Melone
+0 TL Garam Masala (Gewürzmischung)
+80 g Glasnudel
+200 g Vollmilch-Couverture
+100 g Haselnuss, ganz
+100 g Ziegenfrischkäse
+250 g Quark
+1 TL Zitronenthymianmelisse
+2  Karotte
+4 EL Limettensaft
+50 g Sauerrahm
+1 Stängel Thymian
+1  Limette, davon der Saft
+1 Stk. Ingwer
+20 g Butter
+2  Sternanis
+4 EL Olivenöl
+4  Ei, Größe M
+1  Aubergine
+1  Vanilleschote
+250 g Quinoa, rot
+1 EL Olivenöl
+1 TL Balsamico-Essig
+1 TL Apfeldicksaft
+1 EL Kakaopulver
+0  Blumenkohl
+150 ml Tomatenketchup
+225 g Paprika, rot
+20  Basilikum-Blatt
+100 g Erdbeere
+120 g Mandel
+2 große Zwiebel
+1 EL Petersilie, fein geschnitten
+0 TL Chiliflocke, getrocknet
+1 Handvoll Erdbeere
+0 einige Minzblatt
+4  Rumpsteak
+2 TL Apfelessig
+3 EL Kokosöl
+1 Bund Kerbel
+250 g Cocktailtomate
+100 g Babybanane
+2 Stiele Grünkohl
+800 g Hähnchenbrustfilet
+6 EL Basilikumblättchen
+2 EL Sesam
+1 Bund Schnittlauch
+2 EL Olivenöl
+600 ml Gemüsefond
+0 EL Minzblatt
+1 walnussgroßes Stück Ingwer
+1  Limette
+1  Chilischote, getrocknet
+2 EL Essig
+None None Puderzucker
+25 g Mandel, gehackt
+1  Frühlingszwiebel
+1 EL Zucker, braun
+3 EL Creme fraiche
+1 Handvoll Himbeere
+3 EL Naturjoghurt
+40 g Roquefort (Blauschimmelkäse)
+100 g Butter, weich
+50 g Zucker
+12  Wiener Würstchen
+None None Minze
+60 g Kürbiskern
+0  Zitrone, davon der Abrieb
+500 g Rotbarbe
+250 g Hähnchenbrustfilet
+1 Bund Petersilie
+100 ml Kokosmilch
+1 Rispen Cocktailtomate
+3 Stängel Grünkohl
+4  Thüringer Bratwurst
+100 ml Rapsöl
+250 g Butter, weich
+0 TL Kreuzkümmel (Cumin), gemahlen
+400 ml Tomatensaft
+1 Spritzer frisch gepresster Zitronensaft
+1 Packung Champignon
+60 ml Olivenöl
+1 Handvoll frische Kräuter ( z.B. Thymian, Oregano oder Petersilie)
+0  Zuckerperle
+100 g Joghurt
+0 TL Zucker
+250 g Sauerteig
+1 EL Zitronensaft
+1 EL Wasabipaste
+1 EL Orangenblütenwasser
+2  Kaki
+100 g Schnittkäse
+1 TL Vanillezucker
+1  Kartoffel
+1 Msp. Zimt
+2 TL Curry
+0 TL Ingwerpulver
+0  Olivenöl
+2 kleine Zucchini
+2 TL Salz
+2 TL Pfeffer, rosa
+0  Lebensmittelfarbe, rot
+200 g Cherry Rispentomate
+125 g Butter
+100 g Marzipanrohmasse
+150 g Erbse, tiefgekühlt
+8 Blatt Gelatine
+90 g Haferflocken
+200 g Creme fraiche
+2 EL Butter, zerlassen
+0  Rapsöl
+600 g Kartoffel, festkochend 
+1 Rolle Blätterteig
+1 EL Sauerrahm
+3 EL Limettensaft
+100 g Blaubeere, Johannisbeere, Himbeere
+1 Viertel Rotkohl
+12 Scheiben Parmaschinken
+1 Packung Hummus
+0  Vanilleschote
+0  Papaya
+4  Lebensmittelfarbe
+0  Ananasfruchtfleisch, frisch
+0 Bund Petersilie
+50 g Puderzucker
+5  Radieschen
+0  Ein Schokoladen-Fondue-Set
+2 Scheiben Speck, durchwachsen, geräuchert
+1 EL Thymian
+0  Orangensaft, frisch, gepresst
+100 g Honig
+6 EL Orangensaft
+0  Chilischote
+500 g Risoleekartoffeln
+4  Ei
+0  Puderzucker
+1 TL Bohnenkraut
+125 g Kokosjoghurt, cremig
+150 g Lauch
+1 EL Pistazie, gehackt
+100 g Blaubeeren
+1 kleine Hähnchenbrust
+4  Orange, unbehandelt
+1  rote Zwiebel
+150 g Feldsalat
+1  Eigelb
+1 Bund Spargel, weiß
+60 g Mandel
+3 EL Rapsöl
+1 kleiner Apfel
+400 g Rotkohl
+150 g Zucker
+250 g Brie (franz. Weichkäse)
+2  Frühlingszwiebel
+120 g Paprika, rot
+100 g Puderzucker
+0 Bund Minze
+100 g Agavendicksaft
+50 g Walnuss
+1 EL Olivenöl, kalt gepresst
+1  Orange, davon Saft und Abrieb
+2  Avocado
+0  Pfefferbeere, rot
+0  Zwiebel, rot

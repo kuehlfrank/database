@@ -46,7 +46,7 @@ def getAllIngredients(recipe):
     ingredients = []
     for k,v in ingredients_map.items():
         ingredient = k
-        quantity = v["quantity"]
+        quantity = round(float(v["quantity"])) if v["quantity"] != None else None
         unit = v["unit"]
         ingredients.append(f"{quantity} {unit} {ingredient}")
 
@@ -101,7 +101,7 @@ def saveResults(pageNumber, recipes, prefix):
 meta = getMeta()
 print("Meta: ", meta)
 
-pageNumbers = list(set(range(1, int(meta["pages"]) + 1)).difference(set([])))
+pageNumbers = list(set(range(0, int(meta["pages"]))).difference(set([])))
 for pageNumber in pageNumbers:
     print("Page", pageNumber)
     pageRecipes = getRecipes(pageNumber)
