@@ -46,7 +46,7 @@ def getAllIngredients(recipe):
     ingredients = []
     for k,v in ingredients_map.items():
         ingredient = k
-        quantity = round(float(v["quantity"])) if v["quantity"] != None else None
+        quantity = float(v["quantity"]) if v["quantity"] != None else None
         unit = v["unit"]
         ingredients.append(f"{quantity} {unit} {ingredient}")
 
