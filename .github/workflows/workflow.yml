@@ -17,6 +17,8 @@ jobs:
         run: docker run -e POSTGRES_PASSWORD=THISISINTERNALONLY --name database -d ghcr.io/kuehlfrank/database:latest
       - name: Wait for 15s
         run: sleep 15s
+      - name: debug
+        run: docker ps -a
       - name: Test container still running
         run: if [ "$( docker container inspect -f '{{.State.Status}}' database )" != "running" ]; then exit 1; fi
       - name: Login to ghcr
