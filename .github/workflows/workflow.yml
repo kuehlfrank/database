@@ -13,6 +13,8 @@ jobs:
       - uses: actions/checkout@v2
       - name: Build the latest Docker image
         run: docker build . --file Dockerfile --tag ghcr.io/kuehlfrank/database:latest
+      - name: Test run image
+        run: docker run -e POSTGRES_PASSWORD=THISISINTERNALONLY -it ghcr.io/kuehlfrank/database:latest
       - name: Login to ghcr
         run: echo ${{ secrets.CR_PAT }} | docker login ghcr.io -u $GITHUB_ACTOR --password-stdin
       - name: Push image to ghcr
