@@ -10,7 +10,7 @@ MAX_VALUES_PER_INSERT = 1000
 def insertUnitValues(sql, unit):
     if unit and "label" in unit:
         id_of_new_unit = str(uuid.uuid4())
-        label = str(unit["label"])
+        label = str(unit["label"]).replace("'", "")
 
         # (UNIT_ID, LABEL)
         sql.append(f"('{id_of_new_unit}', '{label}')")
@@ -22,7 +22,7 @@ def insertUnitValues(sql, unit):
 def insertIngredientValues(sql, ingredient):
     if ingredient and "name" in ingredient and "common" in ingredient:
         id_of_new_ingredient = str(uuid.uuid4())
-        name = str(ingredient["name"])
+        name = str(ingredient["name"]).replace("'", "")
         common = str(ingredient["common"])
 
         # (INGREDIENT_ID, NAME, COMMON)
@@ -74,11 +74,11 @@ def insertRecipes(sql, recipes):
         if recipe and "title" in recipe and "title" in recipe and "external_id" in recipe and "external_source" in recipe and "external_url" in recipe and "external_img_url":
             id_of_new_recipe = str(uuid.uuid4())
             recipe["id"] = id_of_new_recipe
-            title = str(recipe["title"])
-            external_id = str(recipe["external_id"])
-            external_source = str(recipe["external_source"])
-            external_url = str(recipe["external_url"])
-            external_img_url = str(recipe["external_img_url"])
+            title = str(recipe["title"]).replace("'", "")
+            external_id = str(recipe["external_id"]).replace("'", "")
+            external_source = str(recipe["external_source"]).replace("'", "")
+            external_url = str(recipe["external_url"]).replace("'", "")
+            external_img_url = str(recipe["external_img_url"]).replace("'", "")
 
             # (RECIPE_ID, NAME, EXTERNAL_ID, EXTERNAL_SOURCE, EXTERNAL_URL, EXTERNAL_IMG_SRC_URL)
             sql.append(f"('{id_of_new_recipe}', '{title}', '{external_id}', '{external_source}', '{external_url}', '{external_img_url}')")
