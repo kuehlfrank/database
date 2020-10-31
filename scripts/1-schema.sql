@@ -17,6 +17,7 @@ DROP TRIGGER IF EXISTS update_timestamp_recipe_ingredient ON RECIPE_INGREDIENT;
 DROP TRIGGER IF EXISTS update_timestamp_unit ON UNIT;
 
 CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
+CREATE EXTENSION IF NOT EXISTS "pg_trgm";
 
 CREATE OR REPLACE FUNCTION trigger_set_timestamp()
 RETURNS TRIGGER AS $$
