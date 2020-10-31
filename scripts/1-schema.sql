@@ -110,8 +110,7 @@ CREATE TABLE INVENTORY_ENTRY
     PRIMARY KEY (INVENTORY_ENTRY_ID),
     unique (INVENTORY_ID, INGREDIENT_ID,UNIT_ID)
 );
-
-
+CREATE INDEX inventory_entry_idx_ingredient_id ON inventory_entry (ingredient_id); -- improves performance for suggested recipes
 
 CREATE TABLE KF_USER
 (
@@ -123,6 +122,7 @@ CREATE TABLE KF_USER
     FOREIGN KEY (INVENTORY_ID) REFERENCES INVENTORY ON DELETE RESTRICT,
     PRIMARY KEY (USER_ID)
 );
+CREATE INDEX kf_user_idx_user_id_inventory_id ON kf_user (user_id,inventory_id); -- improves performance for suggested recipes
 
 CREATE TRIGGER update_timestamp_ingredient
 BEFORE UPDATE ON INGREDIENT
