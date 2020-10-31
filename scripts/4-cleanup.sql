@@ -100,3 +100,8 @@ AND u.label = 'Zweig';
 DELETE
 FROM unit r
 WHERE r.label IN ('Beet', 'Blatt', 'Dose', 'Handvoll', 'Flasche', 'Glas', 'Stiel', 'Scheibe', 'Stk.', 'TestUnit', 'Kopf', 'Viertel', 'Zweig', 'dünne', 'einige', 'etwas', 'ganze', 'geh', 'geha', 'gestr.', 'grosse', 'großer', 'großes', 'halbe', 'haselnussgroßes', 'kirschgroßes', 'kleine', 'kleines', 'mittelgroßes', 'mundgerechtes', 'walnussgroßes', 'mittelgroße');
+
+
+UPDATE ingredient i
+SET common = TRUE
+WHERE i.name IN ('Salz', 'Zwiebel', 'Rapsöl', 'Pfeffer', 'Oregano', 'Knoblauchzehe', 'Weizenmehl', 'Butter', 'Magarine', 'Gemüsebrühe', 'Zucker', 'Backpulver', 'Arbeitsfläche', 'Sonnenblumenöl');
